@@ -4,6 +4,7 @@ lb01
 [webserver]
 app01
 app02
+app03
 
 [database]
 db01
